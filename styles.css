@@ -1,0 +1,81 @@
+body{
+   background-image:linear-gradient( 115deg, rgba(58, 58, 158, 0.8), rgba(136, 136, 206, 0.7) ), url(https://cdn.freecodecamp.org/testable-projects-fcc/images/survey-form-background.jpeg);
+   background-size: auto 1000px;
+ }
+ #heading
+ {
+   color:white;
+   text-align: center;
+ }
+ .para1
+ {
+   color:white;
+   text-align: center;
+   font-size: 20px;
+ }
+.Form
+{
+  background-color:#0f3460;
+  height:auto;
+  width:800px;
+  color:white;
+  margin:30px 200px 0px 200px;
+}
+label
+{
+  margin-right: 35px;
+  font-size: 20px;
+}
+input[type=text], select
+{
+    width: 90%;
+    padding: 14px 20px;
+    margin: 8px 35px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+input[type=checkbox]
+{
+  padding: 14px 20px;
+  margin: 8px 35px;
+  display: inline-block;
+}
+input[type=radio]
+{
+  padding: 14px 20px;
+  margin: 8px 35px;
+  display: inline-block;
+}
+input[type=submit]{
+  width: 90%;
+  padding: 14px 20px;
+  margin: 8px 35px;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  color:white;
+  background:#5b8c5a;
+  font-size: 20px;
+}
+textarea
+{
+  width: 90%;
+  padding: 14px 20px;
+  margin: 8px 35px;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+body{
+  font-family: 'Baloo Tamma 2', cursive;
+}
+.form-1
+{
+  padding-right: 14px 20px;
+  margin: 14px 20px;
+  font-size:20px;
+}
